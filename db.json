@@ -76,18 +76,7 @@
       "foto": "caponata",
       "titulo": "Caponata de beringela",
       "resumo": "Receita de Caponata de Berinjela deliciosa feita com pimentão amarelo, verde e vermelho, berinjela e champignon .",
-      "igredientes": {
-        "0": "2 berinjelas grandes em cubos",
-        "1": "1 pimentão amarelo em cubos",
-        "2": "1 pimentão vermelho em cubos",
-        "3": "1 cebola grande, em cubos",
-        "4": "1/2 xícara (chá) de azeitonas sem caroço, cortadas ao meio",
-        "5": "Sal a gosto",
-        "6": "Orégano a gosto",
-        "7": "200g de champignon cortado",
-        "8": "Azeite para refogar e para cobrir a conserva",
-        "9": "Salsinha e cebolinha a gosto"
-      },
+      "igredientes": ["2 berinjelas grandes em cubos", "1 pimentão amarelo em cubos", "1 pimentão vermelho em cubos", "1 cebola grande, em cubos","1/2 xícara (chá) de azeitonas sem caroço, cortadas ao meio","Sal a gosto","Orégano a gosto","200g de champignon cortado","Azeite para refogar e para cobrir a conserva","Salsinha e cebolinha a gosto"],,
       "preparo": {
         "1": "Descasque as berinjelas e corte-as em cubinhos ou tirinhas.",
         "2": "Tire as sementes dos pimentões e corte-os em cubinhos ou tirinhas.",
