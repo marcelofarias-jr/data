@@ -6,13 +6,13 @@
       "titulo": "Bruaca cearense",
       "resumo": "Receita de bruaca, uma panquequinha nordestina muito fácil de fazer para servir no café da manhã ou no lanche e encantar a família! Confira agora mesmo!",
       "igredientes": [
-        "1 Ovo",
-        "1 Colher de sopa de manteiga",
-        "1/2 Xícara (chá) de açúcar",
-        "1/2 Xícara (chá) de farinha de trigo",
-        "1 Xícara (chá) de leite",
-        "1 Pitada de sal",
-        "Óleo ou manteiga para untar"
+        "1 ovo",
+        "1 colher de sopa de manteiga",
+        "1/2 xícara (chá) de açúcar",
+        "1/2 xícara (chá) de farinha de trigo",
+        "1 xícara (chá) de leite",
+        "1 pitada de sal",
+        "óleo ou manteiga para untar"
       ],
       "preparo":
         [
@@ -40,8 +40,8 @@
       "titulo": "Macarrão Carbonara",
       "resumo": "Receita de Macarrão Carbonara tradicional e deliciosa, feita com bacon, Spaghetti RENATA e MAGGI Meu Segredo Refoga.",
       "igredientes": [
-        "150g de bacon em tiras finas de 1 cm",
-        "300g de Spaghetti",
+        "150 g de bacon em tiras finas de 1 cm",
+        "300 g de Spaghetti",
         "6 gemas de ovo",
         "70 g queijo parmesão fresco ralado",
         "1 pitada de pimenta do reino moída"
@@ -109,6 +109,40 @@
       },
       "tempoDePreparo": "40 minutos",
       "rendimento": "10 porções",
+      "acessos": 0
+    },
+    {
+      "id": 4,
+      "foto": "costela-barbecue",
+      "titulo": "Costelinha suina ao molho barbecue",
+      "resumo": "A receita daquela costelinha macia feita no forno",
+      "igredientes": [
+                      "700g de costelinha suína",
+                      "Molho barbecue",
+                      "Sal a gosto",
+                       "Papel aluminio para cobrir"
+      "preparo": [
+                  "Corte no meio para distruibuir bem na assadeira",
+                  "Salgue bem, eu gosto com muito sal.",
+                  "Coloque na panela de pressão por 7 minutos quando pegar pressão, com água suficiente para cobrir.",
+                  "Vá ligando o forno em 200°.",
+                  "Retire a carne e coloque na assadeira",
+                  "Cubra com papel alumínio e deixe assar por 40 minutos",
+                  "Retire o papel alumínio e volte para o forno a assadeira por mais 10 minutos",
+                  "Passe bastante molho e cobre novamente com papel alumínio. Leve ao forno por mas 10 minutos",
+                  "Tire o papel alumínio e passe mais molho. Leve ao forno por mais 10 minutos",
+                  "Passe mais molho, cubra com papel e deixe no forno por mais 10 minutos",
+                ],
+      "vegano": false,
+      "tipo": [
+        "Salgado"
+      ],
+      "culinária": {
+        "id": 3,
+        "label": "Carne suína"
+      },
+      "tempoDePreparo": "90 minutos",
+      "rendimento": "8 porções",
       "acessos": 0
     }
   ],
