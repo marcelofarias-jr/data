@@ -121,6 +121,7 @@
                       "Molho barbecue",
                       "Sal a gosto",
                        "Papel aluminio para cobrir"
+      ],
       "preparo": [
                   "Corte no meio para distruibuir bem na assadeira",
                   "Salgue bem, eu gosto com muito sal.",
@@ -131,7 +132,7 @@
                   "Retire o papel alumínio e volte para o forno a assadeira por mais 10 minutos",
                   "Passe bastante molho e cobre novamente com papel alumínio. Leve ao forno por mas 10 minutos",
                   "Tire o papel alumínio e passe mais molho. Leve ao forno por mais 10 minutos",
-                  "Passe mais molho, cubra com papel e deixe no forno por mais 10 minutos",
+                  "Passe mais molho, cubra com papel e deixe no forno por mais 10 minutos"
                 ],
       "vegano": false,
       "tipo": [
