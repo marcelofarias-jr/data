@@ -155,12 +155,12 @@
     {
       "id": 7,
       "nome": "Lanches"
-    },
+    }
   ],
   "favoritos":[
     {
       "nome": "favorito 1",
       "id": 1
-    },
+    }
   ]
 }
