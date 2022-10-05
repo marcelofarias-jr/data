@@ -130,11 +130,37 @@
   "categorias": [
     {
       "id": 1,
-      "nome": "Hambúrgueres"
+      "nome": "Massas"
     },
     {
       "id": 2,
-      "nome": "Refrigerantes"
-    }
+      "nome": "Sobremesas"
+    },    
+    {
+      "id": 3,
+      "nome": "Carnes"
+    },
+    {
+      "id": 4,
+      "nome": "Carnes suína"
+    },
+    {
+      "id": 5,
+      "nome": "Frutos do mar"
+    },
+    {
+      "id": 6,
+      "nome": "Aves"
+    },
+    {
+      "id": 7,
+      "nome": "Lanches"
+    },
+  ],
+  "favoritos":[
+    {
+      "nome": "favorito 1",
+      "id": 1
+    },
   ]
 }
