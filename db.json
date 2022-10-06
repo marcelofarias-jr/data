@@ -27,7 +27,8 @@
       "culinária": ["Cearense"],
       "tempoDePreparo": "10 minutos",
       "rendimento": "2 porções",
-      "acessos": 5
+      "acessos": 5,
+      "destaque": true
     },
     {
       "id": 2,
@@ -58,7 +59,8 @@
       "culinária": ["Italiana"],
       "tempoDePreparo": "30 minutos",
       "rendimento": "5 porções",
-      "acessos": 2
+      "acessos": 2,
+      "destaque": false
     },
     {
       "id": 3,
@@ -94,7 +96,8 @@
       "culinária": ["Italiana"],
       "tempoDePreparo": "40 minutos",
       "rendimento": "10 porções",
-      "acessos": 0
+      "acessos": 0,
+      "destaque": false
     },
     {
       "id": 4,
@@ -124,7 +127,8 @@
       "culinária": ["Brasileira"],
       "tempoDePreparo": "90 minutos",
       "rendimento": "8 porções",
-      "acessos": 4
+      "acessos": 4,
+      "destaque": true
     },
     {
       "id": 5,
@@ -160,7 +164,8 @@
       "culinária": ["Brasileira"],
       "tempoDePreparo": "90 minutos",
       "rendimento": "12 porções",
-      "acessos": 2
+      "acessos": 2,
+      "destaque": false
     },
     {
       "id": 6,
@@ -196,7 +201,8 @@
       "culinária": ["Indiana"],
       "tempoDePreparo": "90 minutos",
       "rendimento": "10 porções",
-      "acessos": 10
+      "acessos": 10,
+      "destaque": true
     }
     
   ],
