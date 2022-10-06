@@ -27,7 +27,7 @@
       "culinária": ["Cearense"],
       "tempoDePreparo": "10 minutos",
       "rendimento": "2 porções",
-      "acessos": 0
+      "acessos": 5
     },
     {
       "id": 2,
@@ -58,7 +58,7 @@
       "culinária": ["Italiana"],
       "tempoDePreparo": "30 minutos",
       "rendimento": "5 porções",
-      "acessos": 1
+      "acessos": 2
     },
     {
       "id": 3,
@@ -124,7 +124,7 @@
       "culinária": ["Brasileira"],
       "tempoDePreparo": "90 minutos",
       "rendimento": "8 porções",
-      "acessos": 0
+      "acessos": 4
     }
   ],
   "categorias": [
