@@ -125,7 +125,80 @@
       "tempoDePreparo": "90 minutos",
       "rendimento": "8 porções",
       "acessos": 4
+    },
+    {
+      "id": 5,
+      "foto": "torta-frango",
+      "titulo": "Torta de frango",
+      "resumo": "Uma deliciosa torta de frango na massa de empada super fácil de fazer.",
+      "igredientes": [
+                      "800g de peito de frango",
+                      "1 copo de requeijão",
+                      "1 molho de tomate",
+                      "1 caixa de creme de leite",
+                      "Sal e oregano",
+                      "3/4 de um pacote de farinha de trigo",
+                      "Leite para dar o ponto",
+                      "2 colheres cheias de manteiga",
+                      "1 colher de fermento em pó"
+      ],
+      "preparo": [
+                  "Cozinhe o peito de frango e disfie, eu prefiro fazer isso na panela de pressão.",
+                  "Em seguida adicione um pouco da água de cozimento, o sal, o oregano e o moho de tomate. Deixe a água secar, o frango deve ficar cremoso.",
+                  "Ao desligar o fogo acrescente o creme de leite e reserve.",
+                  "Para a massa junte a farinha de trigo, os ovos, a manteiga, o sal, o creme de leite e o fermento em um recipiente e sove ate a massa ficar fofa e amarelinha.",
+                  "Junte aos poucos o leite para deixar a massa homogênea.",
+                  "Divida a massa em duas partes, a primeira parte vai cobrir a assadeira e a segunda será usada para 'fechar' a torta.",
+                  "Abra a primeira parte na assadeira e coloque o frango.",
+                  "Em seguida adicione várias colheres de requeijão bem distribuídas.",
+                  "Feche a torta com a segunda parte da massa.",
+                  "Utilize uma gema de ovo para pincelar sobre a torta.",
+                  "Leve ao forno por aproximadamente 50 minutos"
+                ],
+      "vegano": false,
+      "tipo": ["Aves"],
+      "culinária": ["Brasileira"],
+      "tempoDePreparo": "90 minutos",
+      "rendimento": "12 porções",
+      "acessos": 2
+    },
+    {
+      "id": 6,
+      "foto": "bolo-indiano",
+      "titulo": "Bolo indiano",
+      "resumo": "Uma ótima receita para aquele café da tarde. Um bolo de farinha de rosca diferente de qualquer bolo que você já provou.",
+      "igredientes": [
+                      "8 ovos",
+                      "100g de manteiga sem sal",
+                      "1 xícara e 1/2 de chá de açúcar",
+                      "2 xícaras de chá de farinha de rosca",
+                      "1 colher de sopa de canela",
+                      "1 colher de sopa de fermento químico",
+                      "Açucar de confeiteiro com canela para peneirar",
+                      "1 lata de leite condensado",
+                      "1 colher de sopa de manteiga",
+      ],
+      "preparo": [
+                  "Bata as claras em neve e reserve.",
+                  "Na batedeira, bata a margarina com o açúcar e 6 gemas até virar um creme.",
+                  "Sem bater, misture a farinha de rosca, a canela e o fermento.",
+                  "Delicadamente, incorpore a clara em neve.",
+                  "Despeje em fôrma retangular untada e enfarinhada.",
+                  "Leve ao forno médio preaquecido (180 ºC) por cerca de 40 minutos ou até dourar.",
+                  "Desenforme morno e deixe esfriar.",
+                  "Em seguida para o recheio adicione as 2 gemas que sobraram com o leite condensado e a colher de manteiga.",
+                  "Misture ate engrossar.",
+                  "Jogue por cima do bolo, eu uso uma forma com um furo no meio e deixo um bolo vulcão.",
+                  "Jogue o açúcar com canela por cima."
+                ],
+      "vegano": false,
+      "tipo": ["Bolos"],
+      "culinária": ["Indiana"],
+      "tempoDePreparo": "90 minutos",
+      "rendimento": "10 porções",
+      "acessos": 10
     }
+    
   ],
   "categorias": [
     {
