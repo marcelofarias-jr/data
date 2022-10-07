@@ -23,7 +23,7 @@
           "Sirva com mel, frutas, geleia, creme de avelã etc."
         ],
       "vegano": true,
-      "tipo": ["Doce"],
+      "tipo": "Doce",
       "culinária": ["Cearense"],
       "tempoDePreparo": "10 minutos",
       "rendimento": "2 porções",
@@ -55,7 +55,7 @@
         "Sirva imediatamente com o restante do queijo ralado por cima."
       ],
       "vegano": false,
-      "tipo": ["Massa"],
+      "tipo": "Massa",
       "culinária": ["Italiana"],
       "tempoDePreparo": "30 minutos",
       "rendimento": "5 porções",
@@ -92,7 +92,7 @@
                   "Ideal para servir como aperitivo com torradinhas ou pão italiano."
                 ],
       "vegano": true,
-      "tipo": ["Acompanhamento"],
+      "tipo": "Acompanhamento",
       "culinária": ["Italiana"],
       "tempoDePreparo": "40 minutos",
       "rendimento": "10 porções",
@@ -123,7 +123,7 @@
                   "Passe mais molho, cubra com papel e deixe no forno por mais 10 minutos"
                 ],
       "vegano": false,
-      "tipo": ["Carne suína"],
+      "tipo": "Carne suína",
       "culinária": ["Brasileira"],
       "tempoDePreparo": "90 minutos",
       "rendimento": "8 porções",
@@ -160,7 +160,7 @@
                   "Leve ao forno por aproximadamente 50 minutos"
                 ],
       "vegano": false,
-      "tipo": ["Aves"],
+      "tipo": "Aves",
       "culinária": ["Brasileira"],
       "tempoDePreparo": "90 minutos",
       "rendimento": "12 porções",
