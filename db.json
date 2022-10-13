@@ -231,7 +231,7 @@
                   "Decore com queijo parmesão ralado e um pouco de majericão."
                 ],
       "vegano": false,
-      "tipo": ["Massas"],
+      "tipo": "Massas",
       "culinária": ["Italiana"],
       "tempoDePreparo": "30 minutos",
       "rendimento": "3 porções",
