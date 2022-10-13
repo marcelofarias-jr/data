@@ -197,7 +197,7 @@
                   "Jogue o açúcar com canela por cima."
                 ],
       "vegano": false,
-      "tipo": ["Doces"],
+      "tipo": "Doces",
       "culinária": ["Indiana"],
       "tempoDePreparo": "90 minutos",
       "rendimento": "10 porções",
