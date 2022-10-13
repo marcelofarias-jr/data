@@ -55,7 +55,7 @@
         "Sirva imediatamente com o restante do queijo ralado por cima."
       ],
       "vegano": false,
-      "tipo": "Massa",
+      "tipo": "Massas",
       "culinária": ["Italiana"],
       "tempoDePreparo": "30 minutos",
       "rendimento": "5 porções",
@@ -201,6 +201,40 @@
       "culinária": ["Indiana"],
       "tempoDePreparo": "90 minutos",
       "rendimento": "10 porções",
+      "acessos": 10,
+      "destaque": true
+    },
+    {
+      "id": 7,
+      "foto": "macarrão-amatriciana",
+      "titulo": "Macarrão Alla Matriciana",
+      "resumo": "Uma massa de rapido preparo e muito saborosa. E o mais importante: muito bacon.",
+      "igredientes": [
+                      "300 g de macarrão",
+                      "200 g de bacon",
+                      "4 tomates grandes e maduros",
+                      "1/2 taça de vinho branco seco",
+                      "1 colher de sopa de azeite",
+                      "1 colher de sopa de fermento químico",
+                      "2 colheres de sopa de massa de tomate",
+                      "Sal, pimenta e ervas a gosto"
+      ],
+      "preparo": [
+                  "Tire a pele dos tomates corte - os em cubos.",
+                  "Em uma panela coloque os tomates e tempere com sal e pimenta.",
+                  "Depois de macios, acrescente o purê de tomates, o vinho e, se necessário, um pouquinho de água.",
+                  "Espere 5 minutos até o álcool do vinho evaporar.",
+                  "Em outra panela, doure o bacon com a colher de azeite.",
+                  "Retire o excesso de gordura, e junte ao molho já encorpado.",
+                  "Acrescente as ervas secas.",
+                  "Adicione ao macarrão ao dente",
+                  "Decore com queijo parmesão ralado e um pouco de majericão."
+                ],
+      "vegano": false,
+      "tipo": ["Massas"],
+      "culinária": ["Italiana"],
+      "tempoDePreparo": "30 minutos",
+      "rendimento": "3 porções",
       "acessos": 10,
       "destaque": true
     }
