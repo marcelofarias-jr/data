@@ -33,7 +33,7 @@
     {
       "id": 2,
       "foto": "pasta-g6a3a00a95_1920",
-      "titulo": "Macarrão Carbonara",
+      "titulo": "Macarrão carbonara",
       "resumo": "Receita de Macarrão Carbonara tradicional e deliciosa, feita com bacon, macarrão inegral muito queijo.",
       "igredientes": [
         "150 g de bacon em tiras finas de 1 cm",
@@ -71,11 +71,11 @@
                       "2 berinjelas grandes em cubos",
                       "1 pimentão amarelo em cubos",
                       "1 pimentão vermelho em cubos",
-                       "1 cebola grande, em cubos",
-                       "1/2 xícara (chá) de azeitonas sem caroço, cortadas ao meio",
-                       "Sal a gosto","Orégano a gosto","200g de champignon cortado",
-                       "Azeite para refogar e para cobrir a conserva",
-                       "Salsinha e cebolinha a gosto"],
+                      "1 cebola grande, em cubos",
+                      "1/2 xícara (chá) de azeitonas sem caroço, cortadas ao meio",
+                      "Sal a gosto","Orégano a gosto","200g de champignon cortado",
+                      "Azeite para refogar e para cobrir a conserva",
+                      "Salsinha e cebolinha a gosto"],
       "preparo": [
                   "Descasque as berinjelas e corte-as em cubinhos ou tirinhas.",
                   "Tire as sementes dos pimentões e corte-os em cubinhos ou tirinhas.",
@@ -108,7 +108,7 @@
                       "700g de costelinha suína",
                       "Molho barbecue",
                       "Sal a gosto",
-                       "Papel aluminio para cobrir"
+                      "Papel aluminio para cobrir"
       ],
       "preparo": [
                   "Corte no meio para distruibuir bem na assadeira",
@@ -123,7 +123,7 @@
                   "Passe mais molho, cubra com papel e deixe no forno por mais 10 minutos"
                 ],
       "vegano": false,
-      "tipo": "Carnes suína",
+      "tipo": "Carnes suínas",
       "culinária": ["Brasileira"],
       "tempoDePreparo": "90 minutos",
       "rendimento": "8 porções",
@@ -207,8 +207,8 @@
     {
       "id": 7,
       "foto": "macarrão-amatriciana",
-      "titulo": "Macarrão Alla Matriciana",
-      "resumo": "Uma massa de rapido preparo e muito saborosa. E o mais importante: muito bacon.",
+      "titulo": "Macarrão alla matriciana",
+      "resumo": "Uma massa de rápido preparo e muito saborosa. E o mais importante: muito bacon.",
       "igredientes": [
                       "300 g de macarrão",
                       "200 g de bacon",
@@ -307,7 +307,7 @@
     },
     {
       "id": 4,
-      "nome": "Carnes suína"
+      "nome": "Carnes suínas"
     },
     {
       "id": 5,
