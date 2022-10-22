@@ -289,6 +289,39 @@
       "rendimento": "3 porções",
       "acessos": 4,
       "destaque": false
+    },
+    {
+      "id": 9,
+      "foto": "barbecue",
+      "titulo": "Molho barbecue",
+      "resumo": "Uma receita de molho barbecue caseira. Esse barbecue cremoso vai ser o sucesso do churrasco.",
+      "igredientes": [
+                      "350g de ketchup",
+                      "4 colheres de sopa de molho inglês",
+                      "2 colheres de sopa de mostarda",
+                      "3 colheres de sopa de açúcar mascavo",
+                      "1 colher de sopa de vinagre branco",
+                      "2 colheres de sopa de azeite de oliva",
+                      "1/2 cebola picadinha",
+                      "1 colher de chá de pimenta calabresa",
+                      "1 colher de chá de pimenta do reino",
+                      "sal"
+
+      ],
+      "preparo": [
+                  "Refogue a cebola no azeite ate dourar.",
+                  "Em seguida acrescente os igredientes (excerto a pimenta e o sal) e cozinhe em fogo baixo durante 20min ou ate reduzir, mexendo de vez enquanto",
+                  "É necessário respeitar esse tempo para que os sabores dos igredientes ficarem mais intensos",
+                  "Desligue o fogo, prove e tempere a gosto com pimenta do reino e sal.",
+                  "Após esfriar bata no liquidificador ate obter um molho cremoso e homogêneo"
+                ],
+      "vegano": false,
+      "tipo": "Acompanhamentos",
+      "culinária": ["Brasileira"],
+      "tempoDePreparo": "40 minutos",
+      "rendimento": "10 porções",
+      "acessos": 4,
+      "destaque": false
     }
     
   ],
