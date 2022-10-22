@@ -294,7 +294,7 @@
       "id": 9,
       "foto": "barbecue",
       "titulo": "Molho barbecue",
-      "resumo": "Uma receita de molho barbecue caseira. Esse barbecue cremoso vai ser o sucesso do churrasco.",
+      "resumo": "Uma receita de barbecue caseira. Esse molho cremoso vai ser o sucesso do churrasco.",
       "igredientes": [
                       "350g de ketchup",
                       "4 colheres de sopa de molho inglês",
@@ -310,10 +310,10 @@
       ],
       "preparo": [
                   "Refogue a cebola no azeite ate dourar.",
-                  "Em seguida acrescente os igredientes (excerto a pimenta e o sal) e cozinhe em fogo baixo durante 20min ou ate reduzir, mexendo de vez enquanto",
-                  "É necessário respeitar esse tempo para que os sabores dos igredientes ficarem mais intensos",
+                  "Em seguida acrescente os igredientes (exceto a pimenta e o sal) e cozinhe em fogo baixo durante 20min ou ate reduzir, mexendo de vez enquanto",
+                  "É necessário respeitar esse tempo para que o sabor dos igredientes fique mais intenso",
                   "Desligue o fogo, prove e tempere a gosto com pimenta do reino e sal.",
-                  "Após esfriar bata no liquidificador ate obter um molho cremoso e homogêneo"
+                  "Após esfriar bata no liquidificador até obter um molho cremoso e homogêneo"
                 ],
       "vegano": false,
       "tipo": "Acompanhamentos",
