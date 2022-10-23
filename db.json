@@ -236,7 +236,7 @@
       "tempoDePreparo": "30 minutos",
       "rendimento": "3 porções",
       "acessos": 10,
-      "destaque": true
+      "destaque": false
     },
     {
       "id": 8,
@@ -375,7 +375,7 @@
       "tempoDePreparo": "20 minutos",
       "rendimento": "4 porções",
       "acessos": 1,
-      "destaque": false
+      "destaque": true
     }
   ],
   "categorias": [
