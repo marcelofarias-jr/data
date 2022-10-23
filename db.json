@@ -92,7 +92,7 @@
                   "Ideal para servir como aperitivo com torradinhas ou pão italiano."
                 ],
       "vegano": true,
-      "tipo": "Acompanhamentos",
+      "tipo": "Entradas",
       "culinária": ["Italiana"],
       "tempoDePreparo": "40 minutos",
       "rendimento": "10 porções",
@@ -316,7 +316,7 @@
                   "Após esfriar bata no liquidificador até obter um molho cremoso e homogêneo"
                 ],
       "vegano": false,
-      "tipo": "Acompanhamentos",
+      "tipo": "Molhos",
       "culinária": ["Brasileira"],
       "tempoDePreparo": "40 minutos",
       "rendimento": "10 porções",
@@ -410,6 +410,14 @@
     {
       "id": 8,
       "nome": "Acompanhamentos"
+    },
+    {
+      "id": 9,
+      "nome": "Molhos"
+    },
+    {
+      "id": 9,
+      "nome": "Entradas"
     }
   ],
   "favoritos":[
