@@ -208,7 +208,7 @@
       "id": 7,
       "foto": "macarrão-amatriciana",
       "titulo": "Macarrão alla matriciana",
-      "resumo": "Uma massa de rápido preparo e muito saborosa. E o mais importante: muito bacon.",
+      "resumo": "Uma massa de rápido preparo e muito saborosa. E o mais importante: muuuito bacon.",
       "igredientes": [
                       "300 g de macarrão",
                       "200 g de bacon",
@@ -322,8 +322,35 @@
       "rendimento": "10 porções",
       "acessos": 4,
       "destaque": false
+    },
+    {
+      "id": 10,
+      "foto": "requeijao",
+      "titulo": "Bolo de requeijão",
+      "resumo": "Um bolo que vai na geladeira, feito com requeijão e leite condensado. Fica uma delici",
+      "igredientes": [
+                      "250g de requeijão",
+                      "1 lata de leite condensado",
+                      "1 lata de leite de vaca",
+                      "1 colher de sopa de maizena",
+                      "1 colher de sopa de manteiga",
+                      "4 gemas de ovos"
+
+      ],
+      "preparo": [
+                  "Bater tudo no liquidificador, menos as claras de ovos, bater separadamente.",
+                  "Depois juntar tudo.",
+                  "Assar em forno médio, preaquecido, por 25 minutos.",
+                  "Levar para gelar."
+                ],
+      "vegano": false,
+      "tipo": "Doces",
+      "culinária": ["Brasileira"],
+      "tempoDePreparo": "40 minutos",
+      "rendimento": "10 porções",
+      "acessos": 15,
+      "destaque": false
     }
-    
   ],
   "categorias": [
     {
