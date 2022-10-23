@@ -327,7 +327,7 @@
       "id": 10,
       "foto": "requeijao",
       "titulo": "Bolo de requeijão",
-      "resumo": "Um bolo que vai na geladeira, feito com requeijão e leite condensado. Fica uma delici",
+      "resumo": "Um bolo que vai na geladeira, feito com requeijão e leite condensado. Fica uma delicia",
       "igredientes": [
                       "250g de requeijão",
                       "1 lata de leite condensado",
@@ -349,6 +349,32 @@
       "tempoDePreparo": "40 minutos",
       "rendimento": "10 porções",
       "acessos": 15,
+      "destaque": false
+    },
+    {
+      "id": 11,
+      "foto": "pesto",
+      "titulo": "Molho pesto",
+      "resumo": "O incrível molho pesto pode servir de acompanhamento para sopa, ovos mexidos e grelhados. Como se não bastasse, ele ainda é um molho rápido e delicioso de macarrão. ",
+      "igredientes": [
+                      "1 dente de alho descascado",
+                      "½ xícara (chá) de folhas de manjericão fresco",
+                      "2 nozes",
+                      "2 colheres (sopa) de queijo parmesão ralado",
+                      "¼ de xícara (chá) de azeite",
+                      "sal e pimenta-do-reino moída na hora a gosto"
+
+      ],
+      "preparo": [
+                  "No processador, triture os ingredientes, adicionando na seguinte ordem: alho com uma pitada de sal, folhas de manjericão, nozes, queijo e, por último, misture o azeite. Tempere com sal e pimenta-do-reino e sirva a seguir.",
+                  "Tempere com um pouco de pimenta-do-reino e sirva a seguir."
+                ],
+      "vegano": false,
+      "tipo": "Molhos",
+      "culinária": ["Italiana"],
+      "tempoDePreparo": "20 minutos",
+      "rendimento": "4 porções",
+      "acessos": 1,
       "destaque": false
     }
   ],
