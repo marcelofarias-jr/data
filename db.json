@@ -376,6 +376,44 @@
       "rendimento": "4 porções",
       "acessos": 1,
       "destaque": true
+    },
+    {
+      "id": 12,
+      "foto": "risoto-bacon",
+      "titulo": "Risoto de bacon",
+      "resumo": "Risoto de bacon com parmesão. Aquela receita que é unanimidade entre todos os fãs de bacon.",
+      "igredientes": [
+                      "1 ½ xícaras de arroz arbóreo",
+                      "3 colheres de manteiga",
+                      "1 cebola média picada",
+                      "1 cálice de vinho branco seco",
+                      "150g de bacon picado (sem pele)",
+                      "1 caldo de bacon",
+                      "4 xícaras de água",
+                      "100g de parmesão ralado"
+
+      ],
+      "preparo": [
+                  "Em uma panela de fundo grosso coloque o bacon (se quiser acrescente um fio de óleo), frite até ficar bem torrado.",
+                  "Com o auxílio de uma escumadeira, retire o bacon da gordura e reserve (pode pegar um pouco da gordura).",
+                  "À parte, ferva a água e dissolva o caldo de bacon.",
+                  "Em uma panela também de fundo grosso aqueça 2 colheres de manteiga, coloque a cebola e deixe ficar transparente.",
+                  "Acresente o bacon, o arroz e o vinho. Aguarde o vinho evaporar",
+                  "Acrescente aos poucos (½ xícara aproximadamente por vez) o caldo de bacon reservado, mexendo sempre.",
+                  "Quando terminar o caldo verifique se o arroz está al dente, caso contrário, acrescente um pouco de água fervente até dar ponto.",
+                  "Atenção, o risoto não deve passar MAIS de 20 minutos ate ficar pronto.",
+                  "Desligue o fogo.",
+                  "Adicione uma colher de manteiga e o parmesão ralado e mecha tudo.",
+                  "Ao desligar o fogo acrescente o creme de leite e reserve.",
+                  "Deixe um pouco do parmesão para decorar"
+                ],
+      "vegano": false,
+      "tipo": "Risotos",
+      "culinária": ["Italiana"],
+      "tempoDePreparo": "35 minutos",
+      "rendimento": "4 porções",
+      "acessos": 18,
+      "destaque": true
     }
   ],
   "categorias": [
@@ -418,6 +456,10 @@
     {
       "id": 10,
       "nome": "Entradas"
+    },
+    {
+      "id": 11,
+      "nome": "Risotos"
     }
   ],
   "favoritos":[
