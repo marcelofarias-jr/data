@@ -418,7 +418,7 @@
     {
       "id": 13,
       "foto": "pipoca-frango",
-      "titulo": "Pipoca de frango na Air Fryer",
+      "titulo": "Pipoca de frango na air fryer",
       "resumo": "Um gostoso petisco de frango ótimo para tira gosto ou lanche.",
       "igredientes": [
                       "300g de peito de frango",
@@ -438,6 +438,43 @@
       "culinária": ["Boteco"],
       "tempoDePreparo": "15 minutos",
       "rendimento": "4 porções",
+      "acessos": 18,
+      "destaque": false
+    },
+    {
+      "id": 14,
+      "foto": "pave-ouro-branco",
+      "titulo": "Pavê de ouro branco",
+      "resumo": "Uma deliciosa sobremesa fácil de fazer e deliciosa de comer.",
+      "igredientes": [
+                      "1 latas de leite condensado",
+                      "2 caixas de creme de leite",
+                      "200g de chorolate meio amargo",
+                      "200g de chocolate branco (aqui costumo comprar uma barra do branco e uma do Opereta)",
+                      "2 colheres de sopa de manteiga",
+                      "15 unidades de ouro braco",
+                      "Biscoito maizena",
+                      "Leite"
+      ],
+      "preparo": [
+                  "Derreta o chocolate meio amargo no microondas ou em banho maria",
+                  "Adicione o chocolate derretido em uma panela com manteiga, meia lata de leite condensado e uma caixa de creme de leite",
+                  "Leve ao fogo baixo e mecha ate ele dar o ponto do brigadeiro",
+                  "Derreta o chocolate branco no microondas ou em banho maria",
+                  "Adicione o chocolate derretido em uma panela com manteiga, meia lata de leite condensado e uma caixa de creme de leite",
+                  "Leve ao fogo baixo e mecha ate ele dar o ponto do brigadeiro",
+                  "Coloque uma 'cama' de biscoitos no fundo da travessa e molhe com um pouco de leite",
+                  "Adicione a camada de chocolate preto",
+                  "Coloque mais uma camada de biscoitos e molhe com leite",
+                  "Adicine a camada de chocolate branco",
+                  "Faça uma farofa com os chocolates ouro branco (eu costumo cortar em 4 partes com uma faca).",
+                  "Jogue a farofa por cima do pavê e leve a geladeira por 4 horas ou congelador por 2 horas"
+                ],
+      "vegano": false,
+      "tipo": "Sobremesa",
+      "culinária": ["Brasileira"],
+      "tempoDePreparo": "40 minutos",
+      "rendimento": "8 porções",
       "acessos": 18,
       "destaque": false
     }
