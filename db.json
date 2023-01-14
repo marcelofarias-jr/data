@@ -471,7 +471,7 @@
                   "Jogue a farofa por cima do pavê e leve a geladeira por 4 horas ou congelador por 2 horas"
                 ],
       "vegano": false,
-      "tipo": "Sobremesa",
+      "tipo": "Doces",
       "culinária": ["Brasileira"],
       "tempoDePreparo": "40 minutos",
       "rendimento": "8 porções",
@@ -523,6 +523,10 @@
     {
       "id": 11,
       "nome": "Risotos"
+    },
+    {
+      "id": 12,
+      "nome": "Boteco"
     }
   ],
   "favoritos":[
