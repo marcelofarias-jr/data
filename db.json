@@ -123,7 +123,7 @@
                   "Passe mais molho, cubra com papel e deixe no forno por mais 10 minutos"
                 ],
       "vegano": false,
-      "tipo": "Carnes suínas",
+      "tipo": "Carnes",
       "culinária": ["Brasileira"],
       "tempoDePreparo": "90 minutos",
       "rendimento": "8 porções",
@@ -494,34 +494,30 @@
     },
     {
       "id": 4,
-      "nome": "Carnes suínas"
-    },
-    {
-      "id": 5,
       "nome": "Frutos do mar"
     },
     {
-      "id": 6,
+      "id": 56,
       "nome": "Aves"
     },
     {
-      "id": 7,
+      "id": 6,
       "nome": "Lanches"
     },
     {
-      "id": 8,
+      "id": 7,
       "nome": "Acompanhamentos"
     },
     {
-      "id": 9,
+      "id": 8,
       "nome": "Molhos"
     },
     {
-      "id": 10,
+      "id": 9,
       "nome": "Entradas"
     },
     {
-      "id": 11,
+      "id": 10,
       "nome": "Risotos"
     }
   ],
