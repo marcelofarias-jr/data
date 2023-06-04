@@ -478,6 +478,44 @@
       "acessos": 18,
       "destaque": false
     }
+    {
+      "id": 15,
+      "foto": "frango-com-legumes",
+      "titulo": "Frango com legumes",
+      "resumo": "Deliciosa receita de Frango com legumes, simples e fácil de se fazer!",
+      "igredientes": [
+                      "3 filés de peito de frango",
+                      "2 pimentões grandes (um verde e um vemelho)",
+                      "1 cebola média",
+                      "1 xícara de chá de couve-flor",
+                      "1 xícara de chá de cenoura",
+                      "2 xícaras de chá de brocolis frecos picados",
+                      "2 colheres de sopa de azeite de oliva",
+                      "1 e 1/2 dente de alho picado",
+                      "2 colheres de sopa de mel",
+                      "3 colheres de sopa de shoyu",
+                      "Sala gosto",
+                      "1 colher de vinagre de maçã"
+      ],
+      "preparo": [
+                  "Fatie em tiras os pimentões, a cebola e a cenoura",
+                  "Em uma frigideira ou em uma panela grande, coloque o azeite, a cebola e o alho e refogue em fogo baixo",
+                  "Quando a cebola ficar transparente, adicione os pimentões, a cenoura, a couve-flor e o brócolis",
+                  "Corte o frango em cubos ou em pequenas tiras e tempere à sua maneira",
+                  "Em outra panela, refogue o frango até que fique completamente cozido/frito",
+                  "Deixe dourar e adicione o shoyu",
+                  "Junte o frango com os legumes, adicione o vinagre de maçã e o mel",
+                  "Misture bem, deixe dourar e desligue o fogo",
+                  "Sirva e bom apetite!"
+                ],
+      "vegano": false,
+      "tipo": "Aves",
+      "culinária": ["Orienal"],
+      "tempoDePreparo": "40 minutos",
+      "rendimento": "8 porções",
+      "acessos": 18,
+      "destaque": false
+    }
   ],
   "categorias": [
     {
